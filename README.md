@@ -1,2 +1,2 @@
 # people
-* This repository represents a person with his/her name and age.
+* This repo represents a person with his/her name and age.
